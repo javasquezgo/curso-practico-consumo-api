@@ -1,0 +1,20 @@
+{
+  "name": "curso-practico-consumo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javasquezgo/curso-practico-consumo-api.git"
+  },
+  "keywords": [],
+  "author": "Alejandro Vasquez <josejaguer12@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javasquezgo/curso-practico-consumo-api/issues"
+  },
+  "homepage": "https://github.com/javasquezgo/curso-practico-consumo-api#readme"
+}
